@@ -93,21 +93,4 @@ class Line:
                                realar15=props.get('F4'))
             if ierr <> 0:
                 raise PssError('Some error occurred.')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                
