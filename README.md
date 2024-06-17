@@ -25,7 +25,7 @@ PSSPY Helper is a Python module designed to add Object-Oriented Programming (OOP
 
 ## Usage
 To use PSSPY Helper, import the necessary classes and modules into your Python script. Below is a basic example to get you started:
-```bash
+```python
 import psspy
 from psspy_helper import PSSPYHelper
 
